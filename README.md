@@ -1,6 +1,7 @@
 # Bem vindo! Eu sou Vítor Britto
-- 👽 Cursando Análise e Desenvolvimento de Sistemas
-- 👾 Estudando Python
+- 👽 Cursando Análise e Desenvolvimento de Sistemas (UAM)
+- 👾 Focado em desenvolvimento com Python
+- 🚀 Em busca da primeira oportunidade como Dev Júnior
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
